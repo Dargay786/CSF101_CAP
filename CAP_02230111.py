@@ -11,7 +11,7 @@
 ################################
 # SOLUTION
 
-# Your Solution Score: 50055
+
 
 # Your Solution Score:50055
 # Put your number here: 1
